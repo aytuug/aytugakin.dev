@@ -1,0 +1,24 @@
+{
+  "title": "aytugakin",
+  "name": "Aytug Akin",
+  "ascii": "aytugakin",
+  "social": {
+    "github": "aytuug",
+    "linkedin": "aytugakin"
+  },
+  "email": "aytugakin1999@gmail.com",
+  "ps1_hostname": "aytugakin",
+  "ps1_username": "guest",
+  "repo": "https://github.com/aytuug",
+  "colors": {
+    "dark": {
+      "background": "#333333",
+      "foreground": "#FFFFFF",
+      "yellow": "#A0C3FF",
+      "green": "#7BCFA9",
+      "gray": "#B3B3B3",
+      "white": "#CCCCCC",
+      "red": "#E57368"
+    }
+  }
+}
